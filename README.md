@@ -1,4 +1,4 @@
-# Units
+# Units.jl
 
 Something I've found useful when doing calculations for my Digital Electronics Class.
 
